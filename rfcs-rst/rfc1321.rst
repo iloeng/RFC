@@ -9,8 +9,8 @@ MD5 信息摘要算法
 
 致谢
 
-    我们对提出许多有益的意见和建议的 Don Coppersmith, Burt Kaliski, Ralph Merkle,\
-     David Chaum, 和 Noam Nisan 表示感谢。
+    我们对提出许多有益的意见和建议的 Don Coppersmith, Burt Kaliski, Ralph Merkle, \
+    David Chaum, 和 Noam Nisan 表示感谢。
 
 目录
 
