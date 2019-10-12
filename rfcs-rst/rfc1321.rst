@@ -1,6 +1,6 @@
-================
+-----------------
 MD5 信息摘要算法
-================
+-----------------
 
 关于本备忘录
 
@@ -50,7 +50,7 @@ MD5 算法是 MD4 信息摘要算法 [1]_ [2]_ 的拓展。MD5 算法稍慢于 M
 
 对于基于 OSI 的应用程序，MD5的对象标识符为：
 
-.. code-block:: text
+.. code-block:: 
 
     md5 OBJECT IDENTIFIER ::=
     iso(1) member-body(2) US(840) rsadsi(113549) digestAlgorithm(2) 5}
